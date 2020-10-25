@@ -1,0 +1,10 @@
+.content{
+  font-size: 40;
+align-self: center;
+text-align: center;
+width:100%;
+}
+body{
+  background: rgba(249, 244, 235, 1);
+  display: flex;
+}
