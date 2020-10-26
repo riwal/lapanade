@@ -1,5 +1,6 @@
 .content{
-  font-size: 40;
+  font-size: 60;
+/*  font-weight:300;*/
 align-self: center;
 text-align: center;
 width:100%;
@@ -7,137 +8,18 @@ width:100%;
 body{
   background: rgba(249, 244, 235, 1);
   display: flex;
-  font-family: 'argesta_displayregular';
+  font-family: 'argesta_headlineregular';
 }
-
-
-@font-face {
-    font-family: 'argesta_textregular_italic';
-    src: url('fonts/argestatext-regularitalic-webfont.eot');
-    src: url('fonts/argestatext-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/argestatext-regularitalic-webfont.woff2') format('woff2'),
-         url('fonts/argestatext-regularitalic-webfont.woff') format('woff'),
-         url('fonts/argestatext-regularitalic-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'argesta_textbold';
-    src: url('fonts/argestatext-bold-webfont.eot');
-    src: url('fonts/argestatext-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/argestatext-bold-webfont.woff2') format('woff2'),
-         url('fonts/argestatext-bold-webfont.woff') format('woff'),
-         url('fonts/argestatext-bold-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'argesta_textregular';
-    src: url('fonts/argestatext-regular-webfont.eot');
-    src: url('fonts/argestatext-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/argestatext-regular-webfont.woff2') format('woff2'),
-         url('fonts/argestatext-regular-webfont.woff') format('woff'),
-         url('fonts/argestatext-regular-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'argesta_displayregular_italic';
-    src: url('fonts/argestadisplay-regularitalic-webfont.eot');
-    src: url('fonts/argestadisplay-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/argestadisplay-regularitalic-webfont.woff2') format('woff2'),
-         url('fonts/argestadisplay-regularitalic-webfont.woff') format('woff'),
-         url('fonts/argestadisplay-regularitalic-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'argesta_displayregular';
-    src: url('fonts/argestadisplay-regular-webfont.eot');
-    src: url('fonts/argestadisplay-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/argestadisplay-regular-webfont.woff2') format('woff2'),
-         url('fonts/argestadisplay-regular-webfont.woff') format('woff'),
-         url('fonts/argestadisplay-regular-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'argesta_headlineRgIt';
-    src: url('fonts/argestaheadline-regularitalic-webfont.eot');
-    src: url('fonts/argestaheadline-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/argestaheadline-regularitalic-webfont.woff2') format('woff2'),
-         url('fonts/argestaheadline-regularitalic-webfont.woff') format('woff'),
-         url('fonts/argestaheadline-regularitalic-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 
 
 
 @font-face {
     font-family: 'argesta_headlineregular';
-    src: url('argestaheadline-regular-webfont.eot');
-    src: url('argestaheadline-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('argestaheadline-regular-webfont.woff2') format('woff2'),
-         url('argestaheadline-regular-webfont.woff') format('woff'),
-         url('argestaheadline-regular-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'argesta_hairlineregular';
-    src: url('argestahairline-regular-webfont.eot');
-    src: url('argestahairline-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('argestahairline-regular-webfont.woff2') format('woff2'),
-         url('argestahairline-regular-webfont.woff') format('woff'),
-         url('argestahairline-regular-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'argesta_hairlineRgIt';
-    src: url('argestahairline-regularitalic-webfont.eot');
-    src: url('argestahairline-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('argestahairline-regularitalic-webfont.woff2') format('woff2'),
-         url('argestahairline-regularitalic-webfont.woff') format('woff'),
-         url('argestahairline-regularitalic-webfont.ttf') format('truetype');
+    src: url('fonts/argestaheadline-regular-webfont.eot');
+    src: url('fonts/argestaheadline-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/argestaheadline-regular-webfont.woff2') format('woff2'),
+         url('fonts/argestaheadline-regular-webfont.woff') format('woff'),
+         url('fonts/argestaheadline-regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
