@@ -6,7 +6,7 @@ text-align: center;
 width:100%;
 }
 body{
-  background: rgba(249, 244, 235, 1);
+  background: #FAF3EB;
   display: flex;
   font-family: 'argesta_headlineregular';
 }
