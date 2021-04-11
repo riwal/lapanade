@@ -7,7 +7,7 @@
     "tempUnit" : 17,
     "levain" : false,
     "quantity" : 4,
-    "nbBreadsByFournee" : 2,
+    "quantityByFournee" : 2,
     "currentStep" : 0,
     "inProgress" : false,
     "debug" : false,
