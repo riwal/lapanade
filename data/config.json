@@ -1,0 +1,17 @@
+{
+    "start": "2012-02-27 13:27:00",
+    "finish": "2012-02-27 13:27:00",
+    "recetteId" :0,
+    "categoryId" :0,
+    "tempRoom" : 17,
+    "tempUnit" : 17,
+    "levain" : false,
+    "quantity" : 4,
+    "nbBreadsByFournee" : 2,
+    "currentStep" : 0,
+    "inProgress" : false,
+    "debug" : false,
+    "alarm" : true,
+    "language" : "fr",
+    "firstLaunch" : true
+}
