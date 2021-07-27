@@ -10,8 +10,12 @@ body{
   display: flex;
   font-family: 'argesta_headlineregular';
 }
-
-
+h1{
+  font-size: 48px;
+}
+p{
+  font-size: 16px;
+}
 
 @font-face {
     font-family: 'argesta_headlineregular';
